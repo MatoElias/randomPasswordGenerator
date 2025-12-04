@@ -32,17 +32,20 @@ button {
 }
 
 hr {
+    width: 440px;
     color: #2F3E53;
     margin-bottom: 0;
+    margin-left: 0;
 }
 
 #passwords {
     margin-top: 35px;
     display: flex;
-    justify-content: space-between
+    justify-content: flex-start;
 }
 
 .password {
+    margin-right: 15px;
     text-align: center;
     width: 215px;
     height: 29px;
