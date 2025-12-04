@@ -1,0 +1,56 @@
+body {
+    margin: 0 auto;
+    width: 550px;
+    height: 550px;
+    color: white;
+    background-color: #1F2937;
+    padding: 115px 52px;
+}
+
+h1 {
+    width: 355px;
+    color: white;
+}
+
+.part-h {
+    color: #10B981;
+}
+
+.sub-text {
+    margin-bottom: 50px; 
+}
+
+button {
+    margin-bottom: 35px;
+    padding: 9px 15px;
+    width: 190px;
+    height: 42px;
+    background-color: #10B981;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+
+hr {
+    color: #2F3E53;
+    margin-bottom: 0;
+}
+
+#passwords {
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between
+}
+
+.password {
+    text-align: center;
+    width: 215px;
+    height: 29px;
+    background-color: #2F3E53;
+    border-radius: 6px;
+    color: #55F991;
+}
+
+#password-1, #password-2 {
+    margin: 6px 26px;
+}
